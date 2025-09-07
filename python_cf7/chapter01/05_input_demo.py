@@ -9,7 +9,7 @@ year_of_birth = int(input("Please enter the year of your birth: "))
 
 # Calculate and print the user's age using the current year minus the year of birth
 # The conversion to int was originally done after input, which is now refactored to be immediate
-print("You are", 2024 - year_of_birth, "years old.")   
+print("You are", 2025 - year_of_birth, "years old.")   
 
 # Request the user's height in centimeters and convert it to a float for precision
 height = float(input("Please enter your height in cm: "))
